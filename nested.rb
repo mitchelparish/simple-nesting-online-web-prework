@@ -124,8 +124,9 @@ def changing_alan
 
 		 programmer_hash
 
-
 end
+
+
 
 def adding_to_dennis
 	programmer_hash =
@@ -143,5 +144,9 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
+
+programmer_hash[:dennis_ritchie][:languages] = ["C", "Assembly"]
+
+programmer_hash
 
 end
