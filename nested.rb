@@ -60,7 +60,7 @@ def dennis_ritchies_language
         }
      }
 
-dennis_ritchies_language[:dennis_ritchie][:languages] = "C"
+programmer_hash[:dennis_ritchie][:languages]
 
 
 end
